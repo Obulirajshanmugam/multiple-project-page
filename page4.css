@@ -1,0 +1,17 @@
+*{
+    background-color: bisque;
+}
+img{
+    height: 380px;
+    width: 270px;
+}
+p
+{
+    text-indent: 100px ;
+    text-align: justify;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-decoration: underline;
+}
